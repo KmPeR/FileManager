@@ -17,6 +17,7 @@
                 <ListBoxItem Content="Dropbox"/>
                 <ListBoxItem Content="OneDrive"/>
                 <ListBoxItem Content="Applications"/>
+                <ListBoxItem Content="Desktop"/>
             </TreeView>
             <Label x:Name="label2" Content="Devices" HorizontalAlignment="Left" Margin="10,5,0,0" VerticalAlignment="Top" FontWeight="Bold" Foreground="#FF969696"/>
             <Label x:Name="label3" Content="Shared" HorizontalAlignment="Left" Margin="10,60,0,0" VerticalAlignment="Top" FontWeight="Bold" Foreground="#FF969696"/>
